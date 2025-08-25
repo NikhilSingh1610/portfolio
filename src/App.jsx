@@ -8,7 +8,7 @@ import { useSpring, a } from '@react-spring/three';
 import { motion, AnimatePresence } from 'framer-motion';
 import dashboardImg from './assets/dashboard.jpg';
 import collaborationImg from './assets/collaboration.jpg';
-import fallbackImg from './assets/fallback.jpg';
+import fallbackImg from './assets/Fallback.jpg';
 import devopsImg from './assets/devops.jpg';
 import ecommerceImg from './assets/ecommerce.jpg';
 import wisprrvid from './assets/wisprr.mp4';
@@ -52,7 +52,7 @@ const projects = [
     title: 'Civia',
     description: 'public help platform',
     tech: ['Jenkins', 'GitHub Actions', 'Docker', 'Kubernetes', 'SonarQube'],
-    media: 'https://player.vimeo.com/video/834588351?h=6c9e2d6f1a&autoplay=1&loop=1&muted=1&background=1',
+    media: hotieevid,
     image: fallbackImg,
     accentColor: '#b45309',
     link: 'https://github.com',
